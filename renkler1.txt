@@ -3,3 +3,6 @@ Kirmizi
 Yesil
 Mavi
 Turuncu
+Mor
+Acik MaviKan kirmizi
+Lila
