@@ -26,4 +26,4 @@ Hello Welt!
 
  *liste1* **liste2** ***liste3***
 
- [google gitmark icin TIKLA](https://google.com)
+ [google gitmek icin TIKLA](https://google.com)
