@@ -4,3 +4,6 @@ Baglanti
 Oracle
 Exasol
 Mysql
+Linux
+Windows
+Ubuntu
