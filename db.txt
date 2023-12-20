@@ -1,3 +1,6 @@
 Connection
 Verbindung
 Baglanti
+Oracle
+Exasol
+Mysql
